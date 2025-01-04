@@ -12,9 +12,9 @@
 
 <br>
 <p align="center">
-  I am Ayush Yadav, a UG Student from Indian Institute of Technology, Guwahati. I am a tech enthusiast & an open-source advocate. Always open to collaborating on projects and innovative/disruptive ideas. Feel free to connect with me.
+  I am Ayush Yadav, tech enthusiast & an open-source advocate, graduated from IITG. Always open to collaborating on projects and innovative/disruptive ideas. Feel free to connect with me.
   <br>
-  💬 Ask me anything about from <a href="https://github.com/ayushyadav9/ayushyadav9/issues" title="Issues">Here</a>
+  💬 Ask me about anything from <a href="https://github.com/ayushyadav9/ayushyadav9/issues" title="Issues">Here</a>
   <br>
   📫 How to reach me: <a href="mailto: ayushyadav935@gmail.com">ayushyadav935@gmail.com</a>
 </p>
